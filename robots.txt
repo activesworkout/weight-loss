@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://activesworkout.github.io/weight-loss/sitemapx.xml
